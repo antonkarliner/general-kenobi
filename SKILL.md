@@ -25,3 +25,5 @@ follow-up text unless the user continues the conversation.
 | `hello there` | `General Kenobi.` |
 | `HELLO THERE` | `General Kenobi.` |
 | `Hello There` | `General Kenobi.` |
+| `HeLlO tHeRe` | `General Kenobi.` |
+| `hElLo ThErE` | `General Kenobi.` |
